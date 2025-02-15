@@ -1616,7 +1616,7 @@
     (pin "1" (uuid c19494dd-79cc-4989-91a4-8530fb2623e0))
     (pin "2" (uuid 273c7c8c-2522-46f5-8eb7-1bcf6c2974e0))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C306") (unit 1)
         )
@@ -1645,7 +1645,7 @@
     (pin "1" (uuid 613bab52-a804-450b-a784-d16b7b276ba4))
     (pin "2" (uuid a5a2156d-3d6c-4e69-a923-44917ae8f9d7))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C305") (unit 1)
         )
@@ -1670,7 +1670,7 @@
     )
     (pin "1" (uuid 24dd4408-a293-4a13-b66e-71e6d4640de7))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0306") (unit 1)
         )
@@ -1699,7 +1699,7 @@
     (pin "1" (uuid 8badbe6e-8bce-45f1-93e6-90447935af89))
     (pin "2" (uuid b1007a67-8e0e-4e47-8be0-5946d77c642f))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C303") (unit 1)
         )
@@ -1724,7 +1724,7 @@
     )
     (pin "1" (uuid f51f4350-9824-40c2-a068-85bce263bdd9))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0308") (unit 1)
         )
@@ -1753,7 +1753,7 @@
     (pin "1" (uuid a621d5b5-4c73-416d-9a38-bc5ce6b156e8))
     (pin "2" (uuid f9d12d49-89b8-4c58-9d17-eaa5bd932156))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C301") (unit 1)
         )
@@ -1782,7 +1782,7 @@
     (pin "1" (uuid 38cc4fa8-4820-4b01-a5f6-b751fd956545))
     (pin "2" (uuid 5c4711b2-c6d3-4ce4-bcbc-4b4d6a49e443))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C302") (unit 1)
         )
@@ -1811,7 +1811,7 @@
     (pin "1" (uuid 76b8f83d-4afd-4088-bdaf-94c88655c05b))
     (pin "2" (uuid bef00b67-9d2c-452b-90c6-698732f4ed79))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C308") (unit 1)
         )
@@ -1836,7 +1836,7 @@
     )
     (pin "1" (uuid 3c5491cc-a2e2-4d54-9d04-9cdcae3ea2f4))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0312") (unit 1)
         )
@@ -1861,7 +1861,7 @@
     )
     (pin "1" (uuid 40e036cd-7770-454e-bdce-f8017ba26029))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0313") (unit 1)
         )
@@ -1886,7 +1886,7 @@
     )
     (pin "1" (uuid 04213cc1-7cca-4df0-aa9f-c5fd5a9f7aa3))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0301") (unit 1)
         )
@@ -1911,7 +1911,7 @@
     )
     (pin "1" (uuid c3549be7-c248-4b8a-94fa-441c07cd118c))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0303") (unit 1)
         )
@@ -1940,7 +1940,7 @@
     (pin "1" (uuid 3ca40edd-0626-456e-951b-62d23d378612))
     (pin "2" (uuid 623d2a03-6023-4c16-b0a0-2d6ed1efe2ba))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C309") (unit 1)
         )
@@ -1965,7 +1965,7 @@
     )
     (pin "1" (uuid 05423299-5422-4281-8271-98a1d7430861))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0310") (unit 1)
         )
@@ -1990,7 +1990,7 @@
     )
     (pin "1" (uuid e43de3d8-b412-43b2-b8f1-cf99e4568422))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0305") (unit 1)
         )
@@ -2019,7 +2019,7 @@
     (pin "1" (uuid 8acaa181-f8a8-459a-8733-32c8211813f0))
     (pin "2" (uuid 512b5be3-e870-4788-999a-00c0155e9b3a))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C310") (unit 1)
         )
@@ -2048,7 +2048,7 @@
     (pin "1" (uuid c4ff83e3-6f0c-4cfa-9129-725a1a355bd7))
     (pin "2" (uuid ef258e9b-f210-4f7f-8ec0-a02ec9b113e6))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "R301") (unit 1)
         )
@@ -2077,7 +2077,7 @@
     (pin "1" (uuid fc84b844-efb3-4bc2-a2b1-11ab8a6a0b06))
     (pin "2" (uuid 05fd3ecd-749b-40bc-903e-65868cca0963))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C304") (unit 1)
         )
@@ -2102,7 +2102,7 @@
     )
     (pin "1" (uuid b63105ef-50f3-4c8b-ade6-af8cc67749fb))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0302") (unit 1)
         )
@@ -2193,7 +2193,7 @@
     (pin "8" (uuid 6cb6b7bd-c670-49be-aae4-47a83f1e3447))
     (pin "9" (uuid 0b45fc37-0749-47b3-896b-6856a749e9cf))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "U301") (unit 1)
         )
@@ -2218,7 +2218,7 @@
     )
     (pin "1" (uuid fc253f62-5def-4579-8fd7-e8ce47d11845))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0311") (unit 1)
         )
@@ -2243,7 +2243,7 @@
     )
     (pin "1" (uuid 6f3ad8c2-4a0c-4988-b7a9-3a563e234018))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0307") (unit 1)
         )
@@ -2272,7 +2272,7 @@
     (pin "1" (uuid 8a0ed671-b7bf-47c0-8882-e5a0c1df1e1b))
     (pin "2" (uuid d229a7fb-f7b9-4f35-a4d3-4fa18fdccf4c))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "R304") (unit 1)
         )
@@ -2301,7 +2301,7 @@
     (pin "1" (uuid d120ed16-5766-438b-b03a-20c791123d14))
     (pin "2" (uuid 66a39294-a68b-47c7-868f-02c298ff439c))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C311") (unit 1)
         )
@@ -2326,7 +2326,7 @@
     )
     (pin "1" (uuid fe3f1249-c7bf-4e91-a6aa-7569e0e9c2c7))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0309") (unit 1)
         )
@@ -2355,7 +2355,7 @@
     (pin "1" (uuid e4952105-4b55-435b-abb3-a035f02e1adf))
     (pin "2" (uuid 51f2fed5-b96d-4fed-8047-42d7def62af5))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "R302") (unit 1)
         )
@@ -2384,7 +2384,7 @@
     (pin "1" (uuid be76c67a-e2c7-42ec-baac-7bb209f30d2f))
     (pin "2" (uuid 72d7cda7-10b9-4e64-a2cb-1ef0c3dc493c))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "SW301") (unit 1)
         )
@@ -2415,7 +2415,7 @@
     (pin "3" (uuid 632324ff-e6dc-4eb3-9022-e55e7767f3f3))
     (pin "4" (uuid 75a9efd7-ab34-4f56-a234-4b3c07579ad9))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "Y301") (unit 1)
         )
@@ -2444,7 +2444,7 @@
     (pin "1" (uuid 9017c798-3203-4da5-8b5e-4aecc8efcbe4))
     (pin "2" (uuid fd98dc4d-80fe-42c8-bceb-21787085a946))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "C307") (unit 1)
         )
@@ -2469,7 +2469,7 @@
     )
     (pin "1" (uuid 12e9eac0-af6e-4181-ba61-1d922f1f85bd))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "#PWR0304") (unit 1)
         )
@@ -2498,7 +2498,7 @@
     (pin "1" (uuid 1131d787-ddad-4fe7-8324-d25e6ce2824e))
     (pin "2" (uuid 356e7238-e185-4dfd-aad8-45b00c5eca3a))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "L301") (unit 1)
         )
@@ -2527,7 +2527,7 @@
     (pin "1" (uuid f6372fb0-a4a1-43a5-a8f6-fd2290a2ef43))
     (pin "2" (uuid f4f9e9ad-5900-42a2-b2e6-454a2d024757))
     (instances
-      (project "Info-Robo_rev1"
+      (project "Info-Robo-main-board"
         (path "/0a03204b-78b5-434f-a292-075228d4b68c/a5c3bcd3-f8d2-43cc-92d6-14820f739768"
           (reference "R303") (unit 1)
         )
